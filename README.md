@@ -31,5 +31,3 @@ Rule-Based Correction → Final Hindi Output
 Trained model files and datasets are not included due to size constraints.
 Instructions to reproduce training are provided in the report.
 
-## 🔹 Author
-Gurnoor Singh

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Models
+models/
+*.bin
+*.safetensors
+
+# Datasets
+*.en
+*.hi
+data/
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
